@@ -1,16 +1,33 @@
-# tanya_jawab
+# Aplikasi Tanya Jawab
 
-A new Flutter project.
+| **Nama** | Alfathan Bagas Kurnia |
+| **NIM** | 231401012 |
+| **Laboratorium** | [Lab 5 Pemrograman Mobile] |
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Deskripsi Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi Tanya Jawab adalah aplikasi pilihan ganda sederhana yang dikembangkan untuk membantu pengguna dalam menguji pengetahuan dasar melalui serangkaian pertanyaan interaktif dengan format multiple choice.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Pengguna dapat memilih jawaban dari beberapa opsi yang tersedia, lalu langsung melihat hasil atau skor dari setiap sesi kuis.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Proyek ini dikembangkan menggunakan bahasa pemrograman dart dan framework flutter, sehingga dapat digunakan di android dan iOS.
+
+**Fitur Utama:**
+* Input Nama Pengguna
+* Quiz Page
+* Penyimpanan Jawaban Sementara
+* Skor
+* Tombol Ulangi Kuis/ Keluar
+
+## Screenshot / Video Aplikasi
+
+
+
+## Link Mockup dan Prototype
+
+
+
+## Credit dan Sumber Aset
+
