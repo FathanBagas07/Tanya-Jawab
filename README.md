@@ -2,7 +2,7 @@
 
 **Nama          :** Alfathan Bagas Kurnia  
 **NIM           :** 231401012  
-**Laboratorium  :** Lab 5 Pemrograman Mobile  
+**Lab           :** Lab 5 Pemrograman Mobile  
 
 ---
 
