@@ -9,7 +9,7 @@ class QuizScreen extends StatelessWidget {
   final String name;
   final String nim;
 
-  const QuizScreen({required this.name, required this.nim});
+  const QuizScreen({super.key, required this.name, required this.nim});
 
   @override
   Widget build(BuildContext context) {
