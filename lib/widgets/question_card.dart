@@ -6,11 +6,11 @@ class QuestionCard extends StatelessWidget {
   final String question;
 
   const QuestionCard({
-    Key? key,
+    super.key,
     required this.index,
     required this.total,
     required this.question,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
