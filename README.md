@@ -31,3 +31,10 @@ Proyek ini dikembangkan menggunakan bahasa pemrograman dart dan framework flutte
 
 ## Credit dan Sumber Aset
 
+
+## Referensi
+
+https://www.figma.com/design/4QXqvBY5XJy5ji1OYTP0RZ/Quiz-App-UI-Design--Community-?node-id=10-81&t=rfXT79wQb7KBF30H-0
+
+https://www.figma.com/design/PeiQhkjRt2qnWwmRqKujcz/-FREE--Queezy---Quiz-App-UI-Kit--Community-?node-id=302-2416&t=HHSwjdv0zVFuUJGE-0
+
