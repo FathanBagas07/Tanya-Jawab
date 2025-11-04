@@ -8,7 +8,7 @@ class ResultScreen extends StatelessWidget {
   final String name;
   final String nim;
 
-  const ResultScreen({required this.name, required this.nim});
+  const ResultScreen({super.key, required this.name, required this.nim});
 
   @override
   Widget build(BuildContext context) {

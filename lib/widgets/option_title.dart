@@ -5,11 +5,13 @@ class OptionTile extends StatelessWidget {
   final bool selected;
   final VoidCallback onTap;
 
-  const OptionTile({
-    required this.text,
-    required this.selected,
-    required this.onTap,
-  });
+const OptionTile({
+  super.key,
+  required this.text,
+  required this.selected,
+  required this.onTap,
+});
+
 
   @override
   Widget build(BuildContext context) {
