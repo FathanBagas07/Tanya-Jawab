@@ -19,22 +19,23 @@ Proyek ini dikembangkan menggunakan bahasa pemrograman dart dan framework flutte
 * Quiz Page
 * Penyimpanan Jawaban Sementara
 * Skor
-* Tombol Ulangi Kuis/ Keluar
+* Tombol Ulangi Kuis
 
 ## Screenshot / Video Aplikasi
 
-
+![](D:\Pictures\Screenshots\Homa_Page.jpg)
+![](D:\Pictures\Screenshots\Question_Page.jpg)
+![](D:\Pictures\Screenshots\Question_Page.jpg)
 
 ## Link Mockup dan Prototype
 
-
+[Tanya Jawab Mobile](https://www.figma.com/design/7mTTi0q206kSzIkx7pKwEO/Tanya-Jawab-Mobile?node-id=1-5&t=O9lWG9vwkN88CfEY-1)
 
 ## Credit dan Sumber Aset
 
+[Quiz App UI Design (Community)](https://www.figma.com/design/4QXqvBY5XJy5ji1OYTP0RZ/Quiz-App-UI-Design--Community-?node-id=10-81&t=rfXT79wQb7KBF30H-0)
 
 ## Referensi
 
-https://www.figma.com/design/4QXqvBY5XJy5ji1OYTP0RZ/Quiz-App-UI-Design--Community-?node-id=10-81&t=rfXT79wQb7KBF30H-0
-
-https://www.figma.com/design/PeiQhkjRt2qnWwmRqKujcz/-FREE--Queezy---Quiz-App-UI-Kit--Community-?node-id=302-2416&t=HHSwjdv0zVFuUJGE-0
+[Quiz App UI Design (Community)](https://www.figma.com/design/4QXqvBY5XJy5ji1OYTP0RZ/Quiz-App-UI-Design--Community-?node-id=10-81&t=rfXT79wQb7KBF30H-0)
 
