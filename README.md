@@ -23,9 +23,9 @@ Proyek ini dikembangkan menggunakan bahasa pemrograman dart dan framework flutte
 
 ## Screenshot / Video Aplikasi
 
-![](D:\Pictures\Screenshots\Homa_Page.jpg)
-![](D:\Pictures\Screenshots\Question_Page.jpg)
-![](D:\Pictures\Screenshots\Question_Page.jpg)
+![](D:\Pictures\Screenshots\Homa\Home_Page.png)
+![](D:\Pictures\Screenshots\Question_Page.png)
+![](D:\Pictures\Screenshots\Skor_Page.png)
 
 ## Link Mockup dan Prototype
 
